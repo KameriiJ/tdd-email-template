@@ -41,5 +41,5 @@ public class Template {
 			throw new MissingValueException("No value for " + m.group());
 	}
 
-	// test yolo2
+	// test yolo3
 }
