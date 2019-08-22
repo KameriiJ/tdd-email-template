@@ -40,5 +40,4 @@ public class Template {
 		if (m.find())
 			throw new MissingValueException("No value for " + m.group());
 	}
-	// test
 }
